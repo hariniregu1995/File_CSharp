@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        // Create and write to a file
+        //File Management in C#
         //File.WriteAllText(@"C:\MyFiles\example.txt", "Hello, World!");
         //File.WriteAllText("sample.txt", "Hello, File Handling!");
         // Read the file
